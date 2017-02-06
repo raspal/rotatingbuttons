@@ -18,7 +18,7 @@
 			border-radius: 5%;
 			position: relative;
 			display: inline;
-			top: 20%;
+			margin-top: 5%;
 			left: 10%;
 			border-color: orange;
 			-webkit-transition: transform 1s, font-size 1s, color 1s;
@@ -45,7 +45,7 @@
 			border-radius: 5%;
 			position: relative;
 			display: inline;
-			top: 20%;
+			margin-top: 5%;
 			left: 10%;
 			border-color: orange;
 			-webkit-transition: transform 1s, font-size 1s, color 1s;
@@ -71,7 +71,7 @@
 			border-radius: 5%;
 			background-color: black;
 			display: inline-block;
-			margin-bottom: 30px;
+			margin-bottom: 200px;
 			left: 10%;
 			margin-top: 50px;
 			border-color: black;
@@ -166,7 +166,7 @@
 		    transform: rotate(20deg);
 		}
 
-		@media only and (screen width: 500px) {
+		@media only and (screen width: 600px) {
 			button {
 				display: block;
 			}
